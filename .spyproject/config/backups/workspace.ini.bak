@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['contact.html', 'blogs.html', 'index.html', 'portfolio.html']
+recent_files = ['index.html', 'portfolio.html', 'blogs.html', 'contact.html']
 
 [main]
 version = 0.2.0
